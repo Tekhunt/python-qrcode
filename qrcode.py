@@ -9,4 +9,5 @@ png_format = create_qrcode.png('png_qrcode', scale=10)
 sqg_format = create_qrcode.svg('svg_qrcode', scale=8)
 
 # sample url used here is https://www.python.org 
+# the url can be any websie url
 
